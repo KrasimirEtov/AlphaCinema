@@ -6,7 +6,7 @@
 - Ангел Мизинов - https://my.telerikacademy.com/Users/Angel_Mizinov
 
 ## Presents
-[![image-1.png](https://i.postimg.cc/xqD3WXSB/image-1.png)](https://postimg.cc/vxhnnHTv)
+![AlphaCinemaLogo](https://raw.githubusercontent.com/KrasimirEtov/Homeworks/master/DSA%20Implementations/Data%20Structure%20Operations%20Complexity.png?token=AEI9ITNvmkLfFBCpxqVu8BTHDyzScj8sks5b0ID7wA%3D%3D)
 
 ## About
 Alpha Cinema is a movie booking system with some features like PDF export, Admin menu and CRUD operations.
